@@ -1,0 +1,17 @@
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\bin\Debug\net8.0-windows\eilidh_assign1.exe
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\bin\Debug\net8.0-windows\eilidh_assign1.deps.json
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\bin\Debug\net8.0-windows\eilidh_assign1.runtimeconfig.json
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\bin\Debug\net8.0-windows\eilidh_assign1.dll
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\bin\Debug\net8.0-windows\eilidh_assign1.pdb
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.Form1.resources
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.Properties.Resources.resources
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.csproj.GenerateResource.cache
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.AssemblyInfoInputs.cache
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.AssemblyInfo.cs
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.csproj.CoreCompileInputs.cache
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.dll
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\refint\eilidh_assign1.dll
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.pdb
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\eilidh_assign1.genruntimeconfig.cache
+C:\Users\goobe\Desktop\BVC\fall 24\SODV2101 (rapid app development)\Assignments\Assignment 1\eilidh_assign1\obj\Debug\net8.0-windows\ref\eilidh_assign1.dll
